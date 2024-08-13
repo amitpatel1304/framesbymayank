@@ -700,8 +700,7 @@ nav a:hover::before {
 }
 
 .contact p{
-	font-weight: bold;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 
@@ -846,6 +845,10 @@ nav a:hover::before {
 
 	.fifth-content #contact {
 		padding: 15px 15px 15px 15px;
+	}
+
+	.footer .content{
+		margin-bottom: 0px;
 	}
 
 }
