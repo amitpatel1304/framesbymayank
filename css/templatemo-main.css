@@ -784,6 +784,9 @@ nav a:hover::before {
 	.fifth-content #contact {
 		padding: 30px 30px 30px 30px;
 	}
+	.footer .content{
+		margin-bottom: 0px;
+	}
 
 }
 
@@ -862,5 +865,8 @@ nav a:hover::before {
 	}
 	nav a {
 	  	padding: 15px 20px;
+	}
+	.footer .content{
+		margin-bottom: 0px;
 	}
 }
